@@ -2,4 +2,4 @@ pandas
 tensorflow
 keras
 numpy
-sklearn
+scikit-learn
